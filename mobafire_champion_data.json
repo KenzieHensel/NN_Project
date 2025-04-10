@@ -1,0 +1,682 @@
+[
+  {
+    "champion": "Aatrox",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Ahri",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Akali",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Akshan",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Alistar",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Ambessa",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Amumu",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Anivia",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Annie",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Aphelios",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Ashe",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Aurelion Sol",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Aurora",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Azir",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Bard",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Bel'Veth",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Blitzcrank",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Brand",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Braum",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Briar",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Caitlyn",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Camille",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Cassiopeia",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Cho'Gath",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Corki",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Darius",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Diana",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Draven",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Dr. Mundo",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Ekko",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Elise",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Evelynn",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Ezreal",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Fiddlesticks",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Fiora",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Fizz",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Galio",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Gangplank",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Garen",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Gnar",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Gragas",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Graves",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Gwen",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Hecarim",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Heimerdinger",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Hwei",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Illaoi",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Irelia",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Ivern",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Janna",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Jarvan IV",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Jax",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Jayce",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Jhin",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Jinx",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Kai'Sa",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Kalista",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Karma",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Karthus",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Kassadin",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Katarina",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Kayle",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Kayn",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Kennen",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Kha'Zix",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Kindred",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Kled",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Kog'Maw",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "K'Sante",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "LeBlanc",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Lee Sin",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Leona",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Lillia",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Lissandra",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Lucian",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Lulu",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Lux",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Malphite",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Malzahar",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Maokai",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Master Yi",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Mel",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Milio",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Miss Fortune",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Wukong",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Mordekaiser",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Morgana",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Naafiri",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Nami",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Nasus",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Nautilus",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Neeko",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Nidalee",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Nilah",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Nocturne",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Nunu & Willump",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Olaf",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Orianna",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Ornn",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Pantheon",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Poppy",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Pyke",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Qiyana",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Quinn",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Rakan",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Rammus",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Rek'Sai",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Rell",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Renata Glasc",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Renekton",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Rengar",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Riven",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Rumble",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Ryze",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Samira",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Sejuani",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Senna",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Seraphine",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Sett",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Shaco",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Shen",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Shyvana",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Singed",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Sion",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Sivir",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Skarner",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Smolder",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Sona",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Soraka",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Swain",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Sylas",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Syndra",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Tahm Kench",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Taliyah",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Talon",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Taric",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Teemo",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Thresh",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Tristana",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Trundle",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Tryndamere",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Twisted Fate",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Twitch",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Udyr",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Urgot",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Varus",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Vayne",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Veigar",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Vel'Koz",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Vex",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Vi",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Viego",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Viktor",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Vladimir",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Volibear",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Warwick",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Xayah",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Xerath",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Xin Zhao",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Yasuo",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Yone",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Yorick",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Yuumi",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Zac",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Zed",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Zeri",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Ziggs",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Zilean",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Zoe",
+    "mobafire_description": "No guide found"
+  },
+  {
+    "champion": "Zyra",
+    "mobafire_description": "No guide found"
+  }
+]

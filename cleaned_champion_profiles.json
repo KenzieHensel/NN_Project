@@ -1,0 +1,682 @@
+[
+  {
+    "champion": "Aatrox",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Ahri",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Akali",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Akshan",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Alistar",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Ambessa",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Amumu",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Anivia",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Annie",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Aphelios",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Ashe",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Aurelion Sol",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Aurora",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Azir",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Bard",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Bel'Veth",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Blitzcrank",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Brand",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Braum",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Briar",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Caitlyn",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Camille",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Cassiopeia",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Cho'Gath",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Corki",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Darius",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Diana",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Draven",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Dr. Mundo",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Ekko",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Elise",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Evelynn",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Ezreal",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Fiddlesticks",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Fiora",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Fizz",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Galio",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Gangplank",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Garen",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Gnar",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Gragas",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Graves",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Gwen",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Hecarim",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Heimerdinger",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Hwei",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Illaoi",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Irelia",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Ivern",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Janna",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Jarvan IV",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Jax",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Jayce",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Jhin",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Jinx",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Kai'Sa",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Kalista",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Karma",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Karthus",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Kassadin",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Katarina",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Kayle",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Kayn",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Kennen",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Kha'Zix",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Kindred",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Kled",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Kog'Maw",
+    "cleaned_text": null
+  },
+  {
+    "champion": "K'Sante",
+    "cleaned_text": null
+  },
+  {
+    "champion": "LeBlanc",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Lee Sin",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Leona",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Lillia",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Lissandra",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Lucian",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Lulu",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Lux",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Malphite",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Malzahar",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Maokai",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Master Yi",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Mel",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Milio",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Miss Fortune",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Wukong",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Mordekaiser",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Morgana",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Naafiri",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Nami",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Nasus",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Nautilus",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Neeko",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Nidalee",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Nilah",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Nocturne",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Nunu & Willump",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Olaf",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Orianna",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Ornn",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Pantheon",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Poppy",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Pyke",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Qiyana",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Quinn",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Rakan",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Rammus",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Rek'Sai",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Rell",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Renata Glasc",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Renekton",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Rengar",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Riven",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Rumble",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Ryze",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Samira",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Sejuani",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Senna",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Seraphine",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Sett",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Shaco",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Shen",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Shyvana",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Singed",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Sion",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Sivir",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Skarner",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Smolder",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Sona",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Soraka",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Swain",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Sylas",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Syndra",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Tahm Kench",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Taliyah",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Talon",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Taric",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Teemo",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Thresh",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Tristana",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Trundle",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Tryndamere",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Twisted Fate",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Twitch",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Udyr",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Urgot",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Varus",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Vayne",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Veigar",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Vel'Koz",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Vex",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Vi",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Viego",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Viktor",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Vladimir",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Volibear",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Warwick",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Xayah",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Xerath",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Xin Zhao",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Yasuo",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Yone",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Yorick",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Yuumi",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Zac",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Zed",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Zeri",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Ziggs",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Zilean",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Zoe",
+    "cleaned_text": null
+  },
+  {
+    "champion": "Zyra",
+    "cleaned_text": null
+  }
+]

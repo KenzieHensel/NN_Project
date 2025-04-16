@@ -53,7 +53,8 @@
     "title": "Amumu (Character)",
     "abilities": "Though the validity of his tale is unclear, an old storyteller named Khaldun claims to his grandchildren that he survived an encounter with Amumu, having delved into his tomb and accidentally left it open once he escaped. According to Khaldun, Amumu's cursed touch withered away his arm with decay, being the reason behind his missing arm to this day.[2]",
     "positions": [
-      "Jungle"
+      "Jungle",
+      "Support"
     ]
   },
   {
@@ -144,7 +145,8 @@
     "abilities": "Since he was young, Kegan was ostracized by the villagers of Rygann's Reach for being a son of a reaver and therefore being a symbol of bad luck in the village, insulting him with the moniker \"reaver-bastard\". Throughout Kegan's life the villagers subjected him to constant physical and verbal abuse, causing him to develop an aggressive and resentful personality. After his mother's death, he wished to take out his hatred towards the village for not grieving her death after she had overworked herself to death for their sake, though he blamed Rygann for stoking their beliefs in the first place. After the villagers witnessed his role in Zvanna's death, they mocked him again as he left the village. Even after going his separate ways, Kegan's bitterness from all of the torment his fellows subjected to him never faded, which allowed the World-Rune to tempt him into becoming Brand, leaving Kegan's personality as nothing but his resentment towards the world. Krezia is Kegan's mother, whom was also shunned and outcasted by the village. She wanted to resign herself and Kegan to their cruel treatment fearing that they would be exiled and left to die in the wilderness. Due to her paranoia, she tried to urge her son not to make things worse for the both of them, but he remained defiant and said he refused to be a coward like her. Despite her protectiveness towards her son, Krezia was also abusive towards Kegan due to him being a constant reminder of her husband and his crime which caused them both to be outcasts in the first place. Even so, Kegan grieved his mother's death and burned down Rygann's Reach to avenge her and the cruelty suffered by her alongside himself. Kegan first met Zvanna at the age of thirteen. She was the only person in the village who treated him kindly, so the two developed a friendship which later became a romance, though their relationship didn't last as Zvanna split up with him and later married Malvir, disappointing Kegan as he had lost the love of the only person who cared about him. Zvanna later told Kegan about Old Rygann's decree to exiled, feeling saddened towards him and offering him food to help him survive, though Kegan refused as he wanted to die in his exile. Later, Kegan's attempt to burn down the village ended up accidentally killing Zvanna and her family in the collateral damage, and he felt heavy remorse for causing her death. Old Rygann perpetuated his people's beliefs that the Rodhe family was bad luck, playing a role in the abuse they were subjected to. He wished to exile both Krezia and Kegan but only kept them due to the former's abilities to heal the villagers. Once Krezia died, Rygann had Kegan exiled as he no longer had worth for the village. Of all the people whom mistreated him, Kegan hated Rygann the most due to his role in Krezia's death, so Kegan came to his hut, threatening him with a knife while admonishing him for the way he treated him and his mother, before using his lantern to burn down Rygann's hut and by extent the entire village to get revenge. Brand was once a student of Ryze when he was still known as Kegan Rodhe. After Brand's transformation, they became enemies, with Brand intent on finding and gaining possession of another World Rune, which directly conflicts with Ryze's objective of making sure that nobody can find or use any other World Runes again.",
     "positions": [
       "Jungle",
-      "Support"
+      "Support",
+      "Mid"
     ]
   },
   {
@@ -176,7 +178,8 @@
     "title": "Camille (Character)",
     "abilities": "She has encountered and fought against  Jhin during his assassination mission in Zaun which affected her clan's business. What happened to Camille afterward is still unknown, however.",
     "positions": [
-      "Top"
+      "Top",
+      "Support"
     ]
   },
   {
@@ -298,7 +301,8 @@
     "title": "Galio (Character)",
     "abilities": "Galio was designed by Arcturus J. Durand, who also crafted Sylas shackles. Galio is the only instance of animated golem published by Durand. Galio fought  Vladimir and the  Noxian army at some point. As most Demacians do, the Crownguards make an annual pilgrimage to visit Galio on the Memorial Road. This is how he first became aware of  Lux, reacting to the growing presence of the light magic within her each year ever since she was a toddler. Galio sees Lux as the only mage he likes and has become a sort of guardian to her. Lux is apparently the first person to have an actual conversation with him. She was 13-years-old at the time.[1]",
     "positions": [
-      "Mid"
+      "Mid",
+      "Support"
     ]
   },
   {
@@ -330,7 +334,9 @@
     "title": "Gragas (Character)",
     "abilities": "Gragas is loosely allied with the  Avarosan for unknown reasons. He once blundered into a deteriorating negotiation between two tribes discussing an alliance with  Ashe. In his drunken stupor, he set off a brawl. When the participants of the fight finally came back to consciousness,  Ashe proposed a friendly drink as an alternative to fighting. With their tempers doused, the two tribes, formerly on the brink of war, bonded over a common love of Gragas' brew. ",
     "positions": [
-      "Jungle"
+      "Jungle",
+      "Top",
+      "Mid"
     ]
   },
   {
@@ -346,7 +352,8 @@
     "title": "Gwen (Character)",
     "abilities": "Gwen was created by  Isolde,  Viego's wife. After being brought to life, Gwen uses Isolde's tools. Gwen also contains a fragment of Isolde's soul, like  Senna. Gwen travels across Runeterra to fight  Viego and the Mist as well as to help people in need. During the events of Rise of the Sentinels, Gwen accompanied the Sentinels of Light in the fight against the Black Mist and Viego. She worked as the team' hair stylist and tailor. Gwen and the 4 Ghostly Paramour seem to have memories of and feelings for each other, both say they've seen each other before but don't remember exactly when. 4 Ghostly Paramour is likely a reference to 6Viego; a perfect version of the imperfect man she once knew. ",
     "positions": [
-      "Top"
+      "Top",
+      "Jungle"
     ]
   },
   {
@@ -362,7 +369,9 @@
     "title": "Heimerdinger (Character)",
     "abilities": "Heimerdinger is seen as a role model by  Ziggs and as a sellout by  Rumble. Ziggs used to work for him before the events of Paint the Town. Consequently, he knows  Jinx, who has stolen and used some of his experiments as \"target practice\".[1] Piltover recognizes Heimerdinger's contributions to technological advancement and techmaturgical (thaumaturgical and technological) research.",
     "positions": [
-      "Support"
+      "Support",
+      "Top",
+      "Mid"
     ]
   },
   {
@@ -429,7 +438,8 @@
     "title": "Jayce (Character)",
     "abilities": "Viktor and Jayce were previously friends, and are now unfortunately enemies. They disagree over many topics relating to ethics in science, most pertaining to free will.",
     "positions": [
-      "Top"
+      "Top",
+      "Mid"
     ]
   },
   {
@@ -470,7 +480,8 @@
     "abilities": "",
     "positions": [
       "Mid",
-      "Support"
+      "Support",
+      "Top"
     ]
   },
   {
@@ -631,7 +642,9 @@
     "title": "Malphite (Character)",
     "abilities": "Chip is literally a chip of Malphite's body. Their relationship is like that of a loving father and son. Malphite and Taliyah are friends. They play rock paper scissors, but Malphite always loses as he predictably always picks rock.",
     "positions": [
-      "Top"
+      "Top",
+      "Mid",
+      "Support"
     ]
   },
   {
@@ -647,7 +660,8 @@
     "title": "Maokai (Character)",
     "abilities": "",
     "positions": [
-      "Support"
+      "Support",
+      "Jungle"
     ]
   },
   {
@@ -688,8 +702,8 @@
     "title": "Wukong (Character)",
     "abilities": "(TBA) Wukong was trained in the Art of Wuju by  Master Yi. Wukong's original name was 'Kong'. When Kong agreed to become his student,  Master Yi dubbed him 'Wukong', effectively naming him after the Wuju style. Due to this, they share two similar quotes. Wukong and  Ahri are listed as related champions for unknown reason, possibly because of both being Vastaya. Ting was once a pupil of Wukong, but he was so overconfident in his own Wuju skills that Wukong sent him to  Master Yi to teach him humility.[1]",
     "positions": [
-      "Top",
-      "Jungle"
+      "Jungle",
+      "Top"
     ]
   },
   {
@@ -786,7 +800,6 @@
     "title": "Olaf (Character)",
     "abilities": "Looking for his warrior's death, Olaf fought the  Winter's Claw and defeated many of their warriors before fighting Sejuani. During the battle, Sejuani was able to convince him to join the Winter's Claw, and they now work together in order to accomplish Sejuani's goals of conquest and Olaf's goals of finally obtaining his warrior's death. Olaf along with the rest of the  Winter's Claw are on a mission to steal the Great Cauldron of  Ornn from Volibear and the Ursine in order to survive the oncoming winter, which is told to be the coldest winter in ages. While looking for a warrior's death in Bilgewater, a Harrowing commenced, prompting Olaf to fight the ghost of a Krakenwyrm that he had previously defeated. After being thrown away by the Krakenwyrm, Olaf traveled with  Lucian,  Miss Fortune, and their companions as they traveled towards the temple of  Nagakabouros, a temple headed by  Illaoi. While traveling, Olaf saw the undead Krakenwyrm and rushed to fight it again, abandoning the people he was traveling with. After almost being killed fighting  Vex, Olaf joined the Sentinels of Light (consisting of  Akshan,  Lucian,  Senna, and  Vayne) along with  Diana,  Graves,  Irelia,  Pyke,  Rengar, and  Riven in order to defeat  Viego, who had unleashed his Ruination onto the world. He guided the Sentinels through the Freljord and returned to his normal life after Viego had been defeated. Olaf is a naturally large man, described as being as tall as a mounted  Sejuani.",
     "positions": [
-      "Jungle",
       "Top"
     ]
   },
@@ -812,7 +825,9 @@
     "abilities": "Pylas was Atreus' childhood friend which he deeply respected. Both would climb Mount Targon after the Aspect of the Sun[1] denied their pleas to fight invading barbarians, with only Atreus surviving the climb. 3 Iula was the wife of Pylas. Inspired by the actions of her husband and Atreus, she would take up a spear and fight for the mortals of Targon against foes such as 6 Camphor. Years later, Iula would remind a broken Atreus of his purpose, reigniting his determination and warrior's spirit. Atreus would fight Leona while trying to reach the peak of Mount Targon. 5 The Pantheon is the Targonian Celestial Aspect of War, a being that (uncommon among Aspects) completely possessed the body of the current host, Atreus. After the death of the Aspect at the hands of  Aatrox, Atreus would be freed from the aspects control. He would breefly be controlled by a resurrected Aspect during the events of the Ruination. Atreus resents The Warrior for his arrogance towards mortals, an opinion that has shaped most of Atreus' viepoints towards god-like beings. He now prides in the power and resilience of mortals, and opposes the greater powers that threaten the world. Aatrox is instrumental in killing the Aspect that has shackled Atreus since his ascension. Atreus would survive this encounter (with a scar gowing down his chest as a constant reminder), later succeeded in his second fight against the Darkin Blade, reigniting the Aspect's power. Atreus inspired many mortals to fight in order to protect others, one of which is 1 Tor, a saga seeker that would eventually fight against a demon known as Camphor.",
     "positions": [
       "Top",
-      "Support"
+      "Support",
+      "Jungle",
+      "Mid"
     ]
   },
   {
@@ -901,7 +916,8 @@
     "title": "Rengar (Character)",
     "abilities": "Having fought and lost an eye as well as almost his life, Rengar sees  Kha'Zix as the ultimate prey and wants to hunt him down and mount  his head on his den as the ultimate  hunting trophy. Rengar was saved by  Lucian and a Sentinel Rookie when the  Sentinels of Light came to the jungles Ixtal in search of a fetter, he would later join them in order to hunt  Viego to prove that he was still an apex predator.",
     "positions": [
-      "Jungle"
+      "Jungle",
+      "Top"
     ]
   },
   {
@@ -917,7 +933,8 @@
     "title": "Rumble (Character)",
     "abilities": "Rumble is a resourceful yordle mechanic who is convinced Bandle City can be (if not is already) more technologically advanced than human nations (especially Piltover, where  Heimerdinger 'sold out') To prove that he is more technologically advanced than human nations, he built himself a mechanized suit from junkyard scrap (named  Tristy after the one he has a crush on). ",
     "positions": [
-      "Top"
+      "Top",
+      "Mid"
     ]
   },
   {
@@ -975,7 +992,8 @@
     "title": "Shaco (Character)",
     "abilities": "Shaco has no known relations with any existing or known characters.",
     "positions": [
-      "Jungle"
+      "Jungle",
+      "Support"
     ]
   },
   {
@@ -983,7 +1001,8 @@
     "title": "Shen (Character)",
     "abilities": "Shen leads the surviving Kinkou which has a great conflict of interest with  Zed's Order of Shadow and its defiance of Ionia's sacred balance.  Kennen remains by his side while  Akali went rogue. She and  Shen parted on neutral terms. Neither hates the other but both disapprove of the other's methods.[1] After  Akali and  Zed made their choice, Shen is starting to doubt whether the old way still works. Shen and  Zed are childhood friends and used to consider each other as brother before  Zed \"murdered\" Master Kusho. Master Kusho, Shen, and Zed were responsible for capturing and imprisoning  Khada Jhin, but were traumatised by the Golden Demon's actions in the process. Later on, when Jhin was set free again, Zed sought out Shen in order to inform him about Jhin's reappearance and to team up with him to stop him. Shen, despite still wishing to avenge his father's death, accepted the truce for the greater good. The duo later saved a captured  Akali from  Jhin and caught him. Shen is torn between killing Zed to avenge his father Kusho (the Kinkou's previous master and wielder of the  spirit blade) and enforcing equilibrium with the spirit realm (his duty takes priority, but he won't hesitate if given the chance). Zed could have revealed the truth about Kusho to Shen but then decided it was better for Shen to be disillusioned with Zed than to be disillusioned with his own father. That's probably not fair, and maybe Shen has a right to know. But Zed is flawed... and blinded by his need to feel he's worthy and honorable.[2] Shen was arranged to be married to Yevnai but the engagement was called off after  Zed \"killed\" Master Kusho.  Zed and Yevnai were at one point secretly in a relationship even when forbidden by Master Kusho, unknown to Shen though he possibly suspected it.[3]",
     "positions": [
-      "Top"
+      "Top",
+      "Support"
     ]
   },
   {
@@ -1032,7 +1051,9 @@
     "title": "Smolder (Character)",
     "abilities": "Smolder's mother is fiercely protective towards him, attacking anyone that tries to harm him. When he was deserted on an island, she spent decades searching for her son never giving up hope that she would find him. Since their reunion, she taught him about the feats of his predecessors and how to hone his abilities, so that he matures into a powerful dragon. While she doesn't speak verbally, Smolder's interpretations of her speech imply that she acts like a doting mother towards him always concerned with his activities. Smolder first encountered Marinos during a hunt, with the two becoming companions. Marinos raised the young dragon throughout his early childhood, giving him the name \"Smolder\" along with teaching him how to speak and utilize his powers, though he kept his existence a secret from Noxians passing through for fear that they would sell him for monetary value. He told Smolder stories of the imperial dragons from Camavor, inspiring him to be like his predecessors. Eventually, Marinos grew up and was unable to continue raising him, though Smolder still regards Marinos highly and hopes to see his new family.",
     "positions": [
-      "ADC"
+      "ADC",
+      "Top",
+      "Mid"
     ]
   },
   {
@@ -1056,7 +1077,8 @@
     "title": "Swain (Character)",
     "abilities": "Irelia cut off Swain's left arm during the Battle of the Placidium. Swain and Darius are two of the three heads of the Trifarix of  Noxus, embodying the Noxian values of Vision and Might respectively, along with The Faceless One, who embodies Guile. When audiences for the Reckoning arenas waned and Draven fell into a drunk stupor, Swain found him and offered him a role in his coup against Boram Darkwill. He became integral to Swain’s plan, killing Darkwill himself. He is considered a close ally by Swain. Katarina serves as an assassin for the Trifarix council, killing people at their command. It is also hinted that Swain may know what happened to her father. Urgot was sent away from  Noxus to  Zaun as a part of Swain's coup, as he was seen as a liability and a potential threat to Swain's plan. It is likely that Raum worked for Mordekaiser or was used by him, as Swain found Raum in the Immortal Bastion.",
     "positions": [
-      "Support"
+      "Support",
+      "Mid"
     ]
   },
   {
@@ -1064,7 +1086,8 @@
     "title": "Sylas (Character)",
     "abilities": "Sylas was abducted by the Mageseekers at a very young age and had his magic detection abilities used to find and capture other mages. After an incident where Sylas ended up killing two mageseekers by accident to protect a little girl, he fled to the wilderness. Eventually he would be caught by the mageseekers and imprisoned for 15 years. He would harbor great resentment of his captors as they would treat him like an animal and barely give him any food. Sylas formed a bond with  Lux while he was imprisoned. In exchange for information of the outside world, he would teach her to control her magic due to magic being outlawed in Demacia. He later manipulated her and used her power to escape. He would eventually make amends with her and come to her aid when the mageseekers attacked her mages settlement. While Lux has not forgotten Sylas' betrayal, she undestands he is more than just a murderer. After escaping his execution, Sylas and his followers fought  Garen. He would best him in every fight they had, only retreating when Garen's reinforcements arrived. After escaping his execution, Sylas and his followers almost executed  Jarvan IV before fleeing. He had intended to execute Jarvan III, but then found out that the king was already mysteriously dead in the chamber he and his guard retinue had retreated to. Sylas would form an alliance with the Winter's Claw, who later helps him attack Demacia. Sylas encountered  Galio who came to aid Lux, Garen, and other Demacian soldiers during this attack on Demacia from the north.",
     "positions": [
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -1080,7 +1103,8 @@
     "title": "Tahm Kench (Character)",
     "abilities": "Tahm Kench knows a lot of champions (both as fellows and adversaries, those who get consumed by their inner demons, and those who overcome them) and all Yordles have encountered him at various times (easy to manipulate when socially outcast, harder when not so). He seems to be on friendly terms with, or at least respect,  Aatrox (Tahm Kench calls him 'brother') given both manipulate mankind (their foibles and their lust for bloodshed, respectively) for personal gain as well as both being timeless entities known across the ages in various names and forms. Tahm Kench is considered both an equal and a rival by  Evelynn, as they are both long-lived demons that feed on human emotion for sustenance, with Tahm Kench preying on greed and the misery of loss, while Evelynn preys on lust and the pain she causes her victims. Kalista occasionally comes after him; however, he is safe from her as he technically did not betray his victims, just followed his contracts.",
     "positions": [
-      "Top"
+      "Top",
+      "Support"
     ]
   },
   {
@@ -1088,7 +1112,8 @@
     "title": "Taliyah (Character)",
     "abilities": "Yasuo became the teacher Taliyah had been looking for, as her people didn't understand her power, and Noxus sought to use her as a weapon. Before parting ways, Taliyah gave Yasuo the thread of handspun Shuriman wool with which he ties his hair back in-game. As an only child, Taliyah sees Yasuo as the older brother she never had.[3] Having heard only rumors of both the Ancient Shuriman capital and  Azir's rise from the sands, Taliyah is convinced he is a threat to her family and her homeland when nothing could be further from  the truth. On the way to find her family, Taliyah encountered a wounded  Sivir and nurtured her. Nasus encountered both of them when looking for  Sivir in Vekaura. Taliyah was at first suspicious of his motives but later came to trust him. When  Xerath and his army came to decimate the place and find  Sivir,  Nasus bought time for Taliyah to help others escape. After her return to Shurima, Taliyah met  Kai'Sa and they fought the Voidborn together, including some of  Rek'Sai's Xer'Sai. Taliyah parted way with the group she travelled with to join  Kai'Sa in search of the mythical paradise, Xolan.",
     "positions": [
-      "Jungle"
+      "Jungle",
+      "Mid"
     ]
   },
   {
@@ -1096,7 +1121,8 @@
     "title": "Talon (Character)",
     "abilities": "Talon was bested by and consequently served under General Du Couteau,  Katarina and  Cassiopeia's father. Talon was assigned the task of killing  Katarina after her first failure by her father,[1] his assassination failed, which left a scar on her left eye. He decided to bear his failure instead of reattempting, due to the hypocrisy it would be compared to Katarina's case. He named the very blade he used after Katarina, and keeps it in case he is reassigned to kill her.",
     "positions": [
-      "Mid"
+      "Mid",
+      "Jungle"
     ]
   },
   {
@@ -1104,7 +1130,8 @@
     "title": "Taric (Character)",
     "abilities": "(TBA) Garen was Taric's lifelong friend. His nobility status allowed him to keep Taric safe from being accused of high treason and executed. But even Garen (who still believed in Taric but deep down thought he was wasting his talents by fooling around) turned on Taric after Voidborn killed the Shield of Valoran's men, resulting in his banishment and sentence to the Crown of Stone by the Might of Demacia himself. Based on  Sona's in-game voice lines, she has met Taric before his exile. Taric appreciates the beauty in all things ( music,  life). His role as Aspect of the Protector, and especially past experiences, have made  The Void his enemy.",
     "positions": [
-      "Support"
+      "Support",
+      "Mid"
     ]
   },
   {
@@ -1112,7 +1139,9 @@
     "title": "Teemo (Character)",
     "abilities": "Teemo and Tristana have a strong bond, with him considering her to be an important figure in his life. Whether their relationship is romantic or not is open to interpretation.[1] Teemo shows respect towards Kled and is able to memorize his full title, though he expresses bewilderment towards the idea of the Bandle Scouts. Teemo is friends with  Corki,  Lulu and  Kennen. During one of his mission in  Bilgewater, Teemo was captured by  Graves to earn bounty for Yordles, while  Twisted Fate did not interfere. He would later be saved by  Corki,  Lulu and  Tristana. As seen briefly in his journal, Teemo may know about  Viego.",
     "positions": [
-      "Top"
+      "Top",
+      "Jungle",
+      "Support"
     ]
   },
   {
@@ -1128,7 +1157,8 @@
     "title": "Tristana (Character)",
     "abilities": "Tristana, Teemo,  Lulu and  Corki are friends. Tristana finds  Lulu to be quite a handful and bothersome yordle.  Rumble has an obvious (named his mech 'Tristy') crush on her. Draven had encountered both  Lulu and  Tristana, fought and fled from them during his return trip from Basilich to Noxus Prime. Graves captured  Teemo for the bounty on yordles while  Twisted Fate refuses because \"messing with Yordles brings a whole heap of trouble.\"  Corki, Lulu and  Tristana fought  Graves when trying to save Teemo, which ended up in Graves being  turned into a frog and the Yordles escaping. ",
     "positions": [
-      "ADC"
+      "ADC",
+      "Mid"
     ]
   },
   {
@@ -1136,7 +1166,8 @@
     "title": "Trundle (Character)",
     "abilities": "(TBA) Trundle managed to form an alliance with  Lissandra. His True Ice club (\"Boneshiver\") was originally  Lissandra's. In exchange for it, Trundle agreed to muster a troll army to fight alongside the Frostguard. In his search for the world runes,  Ryze confronted Trundle and his trolls. Legends of Runeterra cards suggest  Ashe's  Avarosan and  Trundle's trolls are in direct conflict which has resulted in a number of loss for the Avarosan. For that reason, Ashe wants the race to be exterminated. ",
     "positions": [
-      "Top"
+      "Top",
+      "Jungle"
     ]
   },
   {
@@ -1153,7 +1184,8 @@
     "abilities": "Their partnership started when they recognized a kindred soul in one another across a table during a high-stakes game in Mudtown. They both shared the same reckless passion for danger and adventure, which is what encouraged them to form their partnership. Graves being the brawn, and T.F. being the brains they were an unusually effective team from the outset. Their mutual sense of roguish honor grew into genuine trust, and together they hustled across Valoran. They were forced apart when a heist went south, with Graves getting sent to The Locker despite Twisted Fate’s efforts to save him. Graves endured years of torture and solitary confinement, during which time he nursed his bitter anger toward his old partner, and, convinced T.F. had betrayed him, Graves was determined to have his revenge. Graves reunited with T.F. again when Miss Fortune set them up, yet they were forced to put aside their differences in order to escape almost certain death in the ongoing conflict between her and Gangplank. Even though Graves and T.F. were tempted to reconcile their relationship, both knew it may take a while for Graves to completely trust T.F. again, still, the latter was happy to have his old friend back. However, since Graves still kept some distance from T.F., in the short story Destiny and Fate, T.F. proactively tries to show Graves that he can trust him again. T.F. had a history of taking off when things got ugly and so, T.F. wanted to stay and retrieve the Abyssal Crown even if it meant risking his life so he could prove to Graves that he wouldn't leave him to pick up the pieces anymore. In the same story, when Graves shows up next to T.F. bleeding, the latter notices and expresses his concern, something that Graves actually appreciated even if he didn't say it out loud. During the Burning Tides events, T.F. jumps after Graves to save him from drowning despite not knowing how to swim and being terrified of drowning himself.",
     "positions": [
       "Mid",
-      "ADC"
+      "ADC",
+      "Top"
     ]
   },
   {
@@ -1161,7 +1193,8 @@
     "title": "Twitch (Character)",
     "abilities": "",
     "positions": [
-      "ADC"
+      "ADC",
+      "Support"
     ]
   },
   {
@@ -1194,7 +1227,8 @@
     "title": "Vayne (Character)",
     "abilities": "Vayne is searching for  Evelynn, as she is the demon who killed her parents. She obsessively craves revenge, which motivates Vayne in her life as a hunter. During a Black Mist attack by  Viego on a Demacian city, Vayne and  Poppy fought side by side against the undead army. Vayne fought against  Shyvana while she was  possessed, and tried to kill her for being a monster.  Shyvana was saved by  Lucian and  Senna, who stopped her and told her that  Viego was their real enemy. Vayne begrudgingly accepted  Graves as a friend, when the two of them were Sentinels of Light.",
     "positions": [
-      "ADC"
+      "ADC",
+      "Top"
     ]
   },
   {
@@ -1202,7 +1236,8 @@
     "title": "Veigar (Character)",
     "abilities": "Mordekaiser tortured Veigar to gain knowledge about other realms. Eventually, Veigar's personality would shape to be more like his captors. However, due to his yordle nature, he could never perfect his masters cruelty, only a caricature of it. Veigar knew LeBlanc, who was also forced to work for Mordekaiser.[6] In the old lore, Veigar is a friend of Lulu. Their connection in the new lore is left unambiguous.",
     "positions": [
-      "Mid"
+      "Mid",
+      "Support"
     ]
   },
   {
@@ -1250,7 +1285,8 @@
     "title": "Vladimir (Character)",
     "abilities": "LeBlanc was forced to serve   Mordekaiser, whose downfall she would later plan. To do so, she approached Vladimir and the two formed a pact and founded the  Black Rose. Vladimir rallied all the Noxii barbarian tribes to siege Mordekaiser's domain while LeBlanc severed the ties of Mordekaiser's magic to The Immortal Bastion, allowing them to be able to defeat The Iron Revenant and end his reign. LeBlanc considered Vladimir her only equal because she has never met any mage that can she considered to be as powerful as her. LeBlanc is also quite aware of the Darkin power that Vladimir absorbed, and she had hoped she could outlive Vladimir and take his power for her own. She has been waiting centuries for him to grow old and die, and may not yet realize that Vladimir is capable of revitalizing himself to stay young and powerful. Vladimir is one of the founders of the organization alongside LeBlanc. He aided the  Black Rose for centuries, such as conducting   Sion's resurrection, creating  Briar, and leading a war against  Demacia in the past. Vladimir, however, is not interested in the political machinations of the Black Rose, only assisting them when needed. Unlike all other members of the Black Rose, he often stood out among others and preferred to show up in public from time to time. Over time, their growing differences in ideology led Vladimir to create his own cult - the  Crimson Circle, and under his tutelage it found a place publicly in the military of Noxus. The quick growth of the Crimson Circle eventually brought LeBlanc into frequent conflict with Vladimir and his inner circle. Vladimir had already alerted his Crimson Circle members through his letters in which the first line says \"Beware  the rose\", which also corresponds to Vladimir's ambition to cut ties of his connection to the Black Rose. Vladimir has recently brought himself back into the public eye, becoming a vocal opponent against the  Trifarix Council, and this has caught  Swain's attention. However, Vladimir's previous public identity has not been completely forgotten, and it is hinted that Swain may know of Vladimir's true nature. One day, a troop of Trifarix soldiers attempted to intercept the old aging Vladimir on his way home, and they all ended up killed and absorbed by Vladimir as a part of his plan to revitalize himself. The incident was witnessed by one of Swain's ravens, in noticing which Vladimir became aware that Swain was watching him.",
     "positions": [
-      "Mid"
+      "Mid",
+      "Top"
     ]
   },
   {
@@ -1301,8 +1337,9 @@
     "title": "Yasuo (Character)",
     "abilities": "Yasuo is an  Ionian swordsman once accused of treason for allegedly murdering Elder Souma, his own master whom he was supposed to protect. He was hunted down across the island continent under the evidence that the killer employed a wind technique, one that only Yasuo has mastered in the present day. He was forced to kill his former allies, likely the entirety of his school. He later crossed paths with  Taliyah while on the run, teaching the Shuriman stone mage how to control her powers. When they parted ways, she gifted him a long thread from her handspun wool tunic which he uses to tie his hair up. After parting way with Taliyah, Yasuo became determined to find the true killer of his Elder. He suspected  Riven of being the Elder's killer and confronted her. This was previously evidenced in interaction quotes with her. \"Wait, that  technique... huh\"\n\"Huh,  three swift strikes... \"\n\"Another  wind blade?\"\n\"Who taught you  that?\"\nEventually, Riven confessed to unintentionally killing Elder Souma, whose  wind technique shattered her  blade and killed him with a stray shard. However, Yasuo admitted to dereliction of duty, for he could have protected Elder Souma had he not left to engage the  Noxians. Despite being cleared of his accusations, Yasuo is still infamously known across Ionia as the killer of his master. Yasuo's presence or absence making a difference was highlighted during Riven's trial, when he focused the Wind Technique on Riven's sword as Souma would have, and the shard that killed his master nearly did the same to Asa Konte, Riven's adopted father. This time, Yasuo was able to stop the shard before it could cause any harm. In the second  Noxian invasion of  Ionia,  Irelia's call for help to defend a seaside village from the Noxian army including  Sion was met by  Akali,  Karma,  Kennen and Yasuo whose arrival turned the tide of the battle.",
     "positions": [
+      "Top",
       "Mid",
-      "Top"
+      "ADC"
     ]
   },
   {
@@ -1310,8 +1347,8 @@
     "title": "Yone (Character)",
     "abilities": "Yone is the older half-brother to  Yasuo, whom he was very close to. Yone taught Yasuo many important lessons when he was young. When Yasuo was running away when accused of killing Elder Souma, 6 Yone was heartbroken and filled with negative thoughts and feelings that fed the azakana he would later confront. When Yone finally caught up, Yasuo was forced to kill his own brother whose death would haunt him for a long time. Later, when Yasuo went to the Spirit Blossom festival in Weh'le, he was confronted by a resurrected Yone who was trying to kill an azakana that pretended to be a monk from the 3 Greenglade Elder's order.[1] After Yasuo let go of his own past, the brother defeated it and parted way in peace, although Yasuo was expecting Yone wanted vengeance. It isn't clear if Yone has forgiven his brother, or if Yasuo has forgiven himself. Yone met  Lillia at some point (likely when they were both traveling to the Spirit Blossom festival of Weh'le) and has vowed to protect her from any azakana and Demon of Nightmare during their travels. Upon Yone's release, it was heavily hinted that the relationship dynamic between Yone and  Lillia is meant to mirror the master / student dynamic of  Yasuo and  Taliyah. The former is mentioned in the story 'The Unforgiven' - \"In her, Yasuo saw an unlikely student, and in himself, an even more unlikely teacher,\"[2] and the latter is further supported by Michael Yichao, Yone's writer.[3] \"Fun fact: Yone knows and has met Lillia! He is rather protective of the innocent dream fawn.\"[4]",
     "positions": [
-      "Mid",
-      "Top"
+      "Top",
+      "Mid"
     ]
   },
   {
@@ -1335,7 +1372,9 @@
     "title": "Zac (Character)",
     "abilities": "Zac was born from a chem spill in Zaun's Sump level, gaining basic sentience to respond to outside stimuli. He was sequestered in a laboratory by a group of alchymists funded by Chem-Baron Saito Takeda, to be molded into a super soldier under his command. Two of the alchymists grew emotionally attached to Zac and, when they discovered who their benefactor was, spirited away with him deep within Zaun, lovingly raising him as their own son while being on the run from baron Takeda's thugs. Zac responds to people's emotions and acts accordingly, his mood changing with the reigning sentiment at any given time, best exemplified when he went berserk after his parents were killed by Takeda's men. After burying them, he decided to set off and help the people of Zaun, fighting chem-thugs and fixing the city's infrastructure when the opportunity presents itself. Although what height Zac truly stands at is very difficult to know since his height is variable, based on his minimum and maximum heights he is appropriately 6'5ft tall. This height is perfect for him to be at specifically since he looms over most characters. ",
     "positions": [
-      "Jungle"
+      "Jungle",
+      "Top",
+      "Support"
     ]
   },
   {
@@ -1343,7 +1382,8 @@
     "title": "Zed (Character)",
     "abilities": "(TBA) (TBA) (TBA) Zed found Kayn when he was 10 year old, and has taken him as a apprentice.",
     "positions": [
-      "Mid"
+      "Mid",
+      "Jungle"
     ]
   },
   {
@@ -1359,8 +1399,8 @@
     "title": "Ziggs (Character)",
     "abilities": "Ziggs is quite terrified of  Jinx (she constantly wants to hug him). Jinx believes he is a product of her imagination, more specifically her conscience. After a night of mischiefs with her all around Piltover, Ziggs now lives with her in Zaun. Ziggs sees  Heimerdinger as his idol and used to work for him before going to Zaun with Jinx. ",
     "positions": [
-      "Mid",
-      "ADC"
+      "ADC",
+      "Mid"
     ]
   },
   {
@@ -1368,7 +1408,6 @@
     "title": "Zilean (Character)",
     "abilities": "While they have never directly interacted, Zilean and Jax are among the only surviving Icathians left. ",
     "positions": [
-      "Mid",
       "Support"
     ]
   },
@@ -1385,7 +1424,6 @@
     "title": "Zyra (Character)",
     "abilities": "She thinks of humans as no little more than prey and thinks they show no respect to the environments they live. She has expressed animosity towards spirits and thinks they are arrogant. Zyra, Rise of the Thorns Original Zyra",
     "positions": [
-      "Mid",
       "Support"
     ]
   }
